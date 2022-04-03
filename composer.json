@@ -32,12 +32,12 @@
         "issues": "http://github.com/serpapi/google-search-results-php/issues"
     },
     "require": {
-        "php": "^5.5 || ^7.0",
+        "php": "^7.4 || ^8.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
     "require-dev": {
-        "php": "^5.5 || ^7.0",
+        "php": "^7.4 || ^8.0",
         "phpunit/phpunit": "^9.3"
     },
     "autoload": {
